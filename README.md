@@ -10,6 +10,6 @@ Features problems from the following sources:
 ### CSES
 
 #### Introductory Problems
-- [Weird Algorithm](https://cses.fi/problemset/task/1068) -> [weird_algorithm.rs](bin/weird_algorithm.rs)
-- [Missing Number](https://cses.fi/problemset/task/1083) -> [missing_number.rs](bin/missing_number.rs)
-- [Repititions](https://cses.fi/problemset/task/1069) -> [repititions.rs](bin/repititions.rs)
+- [Weird Algorithm](https://cses.fi/problemset/task/1068) -> [weird_algorithm.rs](src/bin/weird_algorithm.rs)
+- [Missing Number](https://cses.fi/problemset/task/1083) -> [missing_number.rs](src/bin/missing_number.rs)
+- [Repititions](https://cses.fi/problemset/task/1069) -> [repititions.rs](src/bin/repititions.rs)
