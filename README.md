@@ -15,3 +15,4 @@ Features problems from the following sources:
 - [Repititions](https://cses.fi/problemset/task/1069) -> [repititions.rs](src/bin/repititions.rs)
 - [Increasing Array](https://cses.fi/problemset/task/1094) -> [increasing_array.rs](src/bin/increasing_array.rs)
 - [Permutations](https://cses.fi/problemset/task/1070) -> [permutations.rs](src/bin/permutations.rs)
+- [Number Spiral](https://cses.fi/problemset/task/1071) -> [number_spiral.rs](src/bin/number_spiral.rs)
