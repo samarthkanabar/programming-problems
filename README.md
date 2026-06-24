@@ -24,3 +24,4 @@ Features problems from the following sources:
 - [Distinct Numbers](https://cses.fi/problemset/task/1621) -> [distinct_numbers.rs](src/bin/distinct_numbers.rs)
 - [Apartments](https://cses.fi/problemset/task/1084) -> [apartments.rs](src/bin/apartments.rs)
 - [Ferris Wheel](https://cses.fi/problemset/task/1090) -> [ferris_wheel.rs](src/bin/ferris_wheel.rs)
+- [Concert Tickets](https://cses.fi/problemset/task/1091) -> [concert_tickets.rs](src/bin/concert_tickets.rs)
