@@ -23,3 +23,4 @@ Features problems from the following sources:
 #### Sorting and Searching
 - [Distinct Numbers](https://cses.fi/problemset/task/1621) -> [distinct_numbers.rs](src/bin/distinct_numbers.rs)
 - [Apartments](https://cses.fi/problemset/task/1084) -> [apartments.rs](src/bin/apartments.rs)
+- [Ferris Wheel](https://cses.fi/problemset/task/1090) -> [ferris_wheel.rs](src/bin/ferris_wheel.rs)
