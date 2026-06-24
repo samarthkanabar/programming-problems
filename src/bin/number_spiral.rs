@@ -44,13 +44,13 @@ fn main() {
 fn number_at_coords(y: u64, x: u64) -> u64 {
     let result: u64;
     if y > x {
-        if y % 2 == 0 {
+        if y.is_multiple_of(2) {
             result = (y * y) - (x - 1);
         } else {
             result = (y - 1) * (y - 1) + 1 + (x - 1);
         }
     } else {
-        if x % 2 == 0 {
+        if x.is_multiple_of(2) {
             result = (x - 1) * (x - 1) + 1 + (y - 1);
         } else {
             result = x * x - (y - 1);

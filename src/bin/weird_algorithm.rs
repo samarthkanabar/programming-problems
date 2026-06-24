@@ -18,8 +18,8 @@ fn main() {
 
         if n == 1 {
             break;
-        } else if n % 2 == 0 {
-            n = n / 2;
+        } else if n.is_multiple_of(2) {
+            n /= 2;
         } else {
             n = n * 3 + 1;
         }

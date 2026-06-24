@@ -20,7 +20,7 @@ fn main() {
         let num: u64 = item.parse().expect("should only be numbers");
 
         if num < prev {
-            moves = moves + (prev - num);
+            moves += prev - num;
         } else {
             prev = num;
         }
